@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#brand-logo img{
+  width: 10%;
+}
+
+#hero-load{
+  background: url(/geforce_rtx_2.jpg), no-repeat; 
+}
